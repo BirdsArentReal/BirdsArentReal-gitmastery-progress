@@ -50,5 +50,14 @@
     "completed_at": 1786710250.205554,
     "comments": [],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1786800227.842727,
+    "completed_at": 1786800239.216527,
+    "comments": [
+      "The remote repository url you provided either does not exist or is private. Try again!"
+    ],
+    "status": "Incomplete"
   }
 ]
