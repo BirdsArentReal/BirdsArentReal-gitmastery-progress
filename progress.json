@@ -424,5 +424,14 @@
       "Great work pushing the PQR branch to your fork!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1787494332.859974,
+    "completed_at": 1787494337.385154,
+    "comments": [
+      "The local DEF branch is not created."
+    ],
+    "status": "Incomplete"
   }
 ]
